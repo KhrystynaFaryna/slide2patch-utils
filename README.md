@@ -1,2 +1,2 @@
 # slide2patch-utils
-Utility scripts for converting WSI to latches
+Utility scripts for converting WSI to patches
